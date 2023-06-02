@@ -1,6 +1,6 @@
 //Составить алгоритм: если введенное число больше 7, то вывести “Привет”
 
-package TestovieAstonQAAuto;
+package DobrolezhaJava;
 
 import java.util.Scanner;
 

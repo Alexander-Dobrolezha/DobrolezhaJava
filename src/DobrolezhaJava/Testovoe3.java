@@ -1,7 +1,7 @@
 // Составить алгоритм: на входе есть числовой массив,
 // необходимо вывести элементы массива кратные 3
 
-package TestovieAstonQAAuto;
+package DobrolezhaJava;
 
 public class Testovoe3 {
     public static void main (String[] args) {
